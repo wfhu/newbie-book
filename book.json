@@ -8,7 +8,8 @@
     "sectionx",
     "splitter",
     "advanced-emoji",
-    "github"
+    "github",
+    "emphasize"
   ],
   "pluginsConfig": {
     "fontSettings": {
