@@ -4,10 +4,7 @@
   "author": "wfhu",
   "plugins": [
     "toggle-chapters",
-    "include-codeblock",
-    "sectionx",
     "splitter",
-    "advanced-emoji",
     "github",
     "emphasize"
   ],
@@ -17,15 +14,6 @@
     },
     "github": {
         "url": "https://github.com/wfhu"
-    }
-  },
-  "links": {
-    "sharing": {
-      "all": false,
-      "facebook": false,
-      "google": false,
-      "twitter": false,
-      "weibo": false
     }
   }
 }
