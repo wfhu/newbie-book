@@ -1,9 +1,26 @@
 {
-title: "职场新人的第一本书",
-description: "记录 GitBook 的配置和一些插件的使用",
-author: "wfhu",
-output.name: "",
-language: "zh-hans",
-gitbook: "3.2.3",
-root: ".",
+  "title": "职场新人的第一本书",
+  "description": "职场新人的第一本书",
+  "author": "wfhu",
+  "plugins": [
+    "toggle-chapters",
+    "include-codeblock",
+    "-sharing",
+    "sectionx",
+    "splitter"
+  ],
+  "pluginsConfig": {
+    "fontSettings": {
+      "family": "serif"
+    }
+  },
+  "links": {
+    "sharing": {
+      "all": false,
+      "facebook": false,
+      "google": false,
+      "twitter": false,
+      "weibo": false
+    }
+  }
 }
