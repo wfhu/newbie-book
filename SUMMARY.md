@@ -46,9 +46,56 @@
   * [6、工作是严肃的](63001-gong-zuo-shi-yan-su-de.md)
 * [第四章--持续学习及学习方法](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa.md)
   * [1、专业的广度和深度](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa/13001-zhuan-ye-de-guang-du-he-shen-du.md)
-  * 2、综合能力学习
-  * 3、有针对性地学习与宽泛地学习
+  * [2、综合能力学习](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa/23001-zong-he-neng-li-xue-xi.md)
+  * [3、有针对性地学习与宽泛地学习](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa/33001-you-zhen-dui-xing-di-xue-xi-yu-kuan-fan-di-xue-xi.md)
   * [4、基础是根本](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa/43001-ji-chu-shi-gen-ben.md)
   * [5、具备获取第一手资料的能力](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa/53001-ju-bei-huo-qu-di-yi-shou-zi-liao-de-neng-li.md)
   * [6、制定短期、中期和长期目标](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa/63001-zhi-ding-duan-qi-3001-zhong-qi-he-chang-qi-mu-biao.md)
+* 第五章--如何更好地提升自己
+  * [1、日省吾身三次](13001-ri-sheng-wu-shen-san-ci.md)
+  * 2、格局要大，眼光要远，心态要宽
+  * 3、不要自己欺骗自己
+  * 4、钱不应该是追求的目标，钱是附带而来的
+  * [5、时间是自己的，不要浪费时间](53001-shi-jian-shi-zi-ji-de-ff0c-bu-yao-lang-fei-shi-jian.md)
+  * 6、被动接受任务和主动发现和解决问题
+  * 7、不要掩饰自己的问题和错误
+  * 8、不要用学习和忙碌来逃避总结和思考
+  * 9、要有做事的能力，更要有做成事的能力
+  * [10、思考自己处理工作的方式和方法](103001-si-kao-zi-ji-chu-li-gong-zuo-de-fang-shi-he-fang-fa.md)
+  * 11、具备自我怀疑和反思的能力
+  * 12、跳出自己的职位、部门，强调对外输出
+  * 13、不要担心功劳被抢，不要怕吃亏
+* 第六章--工作中需要特别注意的细节
+  * 1、领导经常亲自来找你询问工作进展
+  * 2、领导对你不闻不问
+  * 3、工作几个月了，只认识身边少数几个同事
+  * 4、不要轻易承诺别人
+  * 5、你可以拒绝别人
+  * 6、正确看待同事与朋友的关系
+  * [7、思考他人的长处](73001-si-kao-ta-ren-de-chang-chu.md)
+  * 8、少议论他人八卦和是非
+  * 9、尊重他人的生活差异
+* 第七章--痛定思痛--深刻的历史教训
+  * 1、跟对人很重要
+  * 2、做自己的伯乐，发现自己的长处
+  * 3、把自己介绍和推广出去
+  * 4、提升自信心，接受挑战
+  * 5、胆子大一点，不要害怕失败，不要怕丢人
+  * 6、聪明不代表成绩，成果最重要
+  * 7、人如果能活第二次，都会是成功的？
+  * 8、世界上的事情，说起来都很困难，做起来缺没那么难
+  * 9、要有自己的意见，不能让外行领导内行，被人牵着鼻子走
+  * 10、维护好良好的人际关系和圈子关系
+  * 11、尽早选择自己喜欢的职业
+  * 12、要强调自己的时间管理
+* [第八章--什么时候应该离开公司](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si.md)
+  * 1、认清楚自己的目标
+  * 2、认清楚公司的目标
+  * 3、我能否在公司发挥我的长处
+  * 4、公司能否让我持续成长
+  * 5、你愿意让你的孩子呆在这家公司么？
+  * 6、公司是否有让你留下来的价值
+* 第九章--其他杂项
+  * [1、找一个自己的兴趣爱好](13001-zhao-yi-ge-zi-ji-de-xing-qu-ai-hao.md)
+  * 2、如何做到自律
 
