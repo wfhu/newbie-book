@@ -6,7 +6,7 @@
     "toggle-chapters",
     "splitter",
     "github",
-    "emphasize"
+    "expandable-chapters-small"
   ],
   "pluginsConfig": {
     "fontSettings": {
