@@ -21,7 +21,7 @@
     * [问题3：老板希望我把公司当家，把公司当成自己的，明显是在忽悠我，我才不傻呢](chapter1/wen-ti-3-ff1a-lao-ban-xi-wang-wo-ba-gong-si-dang-jia-ff0c-ba-gong-si-dang-cheng-zi-ji-de-ff0c-ming-xian-shi-zai-hu-you-wo-ff0c-wo-cai-bu-sha-ni.md)
     * [问题4：工作总是做不完，总是来新的事情，什么时候能休息一下](chapter1/wen-ti-4-ff1a-gong-zuo-zong-shi-zuo-bu-wan-ff0c-zong-shi-lai-xin-de-shi-qing-ff0c-shi-yao-shi-hou-neng-xiu-xi-yi-xia.md)
   * 类别四：对公司目标或工作内容没有认同感
-    * 问题1：对公司的目标和工作内容不认同，觉得自己把时间都浪费在没意义的事情上
+    * [问题1：对公司的目标和工作内容不认同，觉得自己把时间都浪费在没意义的事情上](chapter1/wen-ti-1-ff1a-dui-gong-si-de-mu-biao-he-gong-zuo-nei-rong-bu-ren-tong-ff0c-jue-de-zi-ji-ba-shi-jian-du-lang-fei-zai-mei-yi-yi-de-shi-qing-shang.md)
   * 类别五：眼高手低，不能脚踏实地
     * 问题1：这种事情很简单，没啥太大的价值，我要做点有难度的事情
   * 其他常见问题
