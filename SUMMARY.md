@@ -28,4 +28,13 @@
   * [其他常见问题](chapter1/qi-ta-chang-jian-wen-ti.md)
     * [问题1：一件事情对公司是有利的，但会让一些同事不开心，我该怎么做？](chapter1/qi-ta-chang-jian-wen-ti/wen-ti-1-ff1a-yi-jian-shi-qing-dui-gong-si-shi-you-li-de-ff0c-dan-hui-rang-yi-xie-tong-shi-bu-kai-xin-ff0c-wo-gai-zen-yao-zuo-ff1f.md)
     * [问题2：公司很多岗位都是老板亲戚，会不会有问题？](chapter1/qi-ta-chang-jian-wen-ti/wen-ti-2-ff1a-gong-si-hen-duo-gang-wei-du-shi-lao-ban-qin-qi-ff0c-hui-bu-hui-you-wen-ti-ff1f.md)
+* [第二章--工作究竟是什么？](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f.md)
+  * [1、工作是生命中不可缺少的一部分](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f/13001-gong-zuo-shi-sheng-ming-zhong-bu-ke-que-shao-de-yi-bu-fen.md)
+  * [2、工作是一个人在社会中的定位](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f/23001-gong-zuo-shi-yi-ge-ren-zai-she-hui-zhong-de-ding-wei.md)
+  * [3、工作是个人价值的体现](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f/33001-gong-zuo-shi-ge-ren-jia-zhi-de-ti-xian.md)
+  * [4、工作收入代表了什么？](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f/43001-gong-zuo-shou-ru-dai-biao-le-shi-yao-ff1f.md)
+  * [5、在工作中，要体现你的专业性](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f/53001-zai-gong-zuo-zhong-ff0c-yao-ti-xian-ni-de-zhuan-ye-xing.md)
+  * [6、工作就是帮他人解决问题，为他人创造价值](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f/63001-gong-zuo-jiu-shi-bang-ta-ren-jie-jue-wen-ti-ff0c-wei-ta-ren-chuang-zao-jia-zhi.md)
+  * [7、工作、事业和生活，是不可分割的](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f/73001-gong-zuo-3001-shi-ye-he-sheng-huo-ff0c-shi-bu-ke-fen-ge-de.md)
+  * [8、工作会伴你一生，也应该伴你一生](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f/83001-gong-zuo-hui-ban-ni-yi-sheng-ff0c-ye-ying-gai-ban-ni-yi-sheng.md)
 
