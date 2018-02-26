@@ -3,7 +3,6 @@
   "description": "职场新人的第一本书",
   "author": "wfhu",
   "plugins": [
-    "toggle-chapters",
     "splitter",
     "github",
     "emphasize"
