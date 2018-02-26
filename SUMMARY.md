@@ -14,6 +14,7 @@
     * [问题3：我为公司创造了很多价值，但是不会从中分我一点，我觉得干着没劲](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/wen-ti-3-ff1a-wo-wei-gong-si-chuang-zao-le-hen-duo-jia-zhi-ff0c-dan-shi-bu-hui-cong-zhong-fen-wo-yi-dian-ff0c-wo-jue-de-gan-zhao-mei-jing.md)
     * [问题4：没人能知道我的能力，我是有大本事的，没人赏识我，发掘不了我的潜力](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/wen-ti-4-ff1a-mei-ren-neng-zhi-dao-wo-de-neng-li-ff0c-wo-shi-you-da-ben-shi-de-ff0c-mei-ren-shang-shi-wo-ff0c-fa-jue-bu-le-wo-de-qian-li.md)
     * [问题5：公司真的好赚钱啊，老板都发财了，我想自己干，赚大钱](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/wen-ti-5-ff1a-gong-si-zhen-de-hao-zhuan-qian-a-ff0c-lao-ban-du-fa-cai-le-ff0c-wo-xiang-zi-ji-gan-ff0c-zhuan-da-qian.md)
+    * [总结和建议](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/zong-jie-he-jian-yi.md)
   * 类别三：短视，以自我利益为中心
     * 问题1：学习也没啥效果，天天在上网和看手机上
   * 类别四：对公司目标或工作内容没有认同感
