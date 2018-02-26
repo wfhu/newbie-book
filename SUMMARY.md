@@ -44,4 +44,11 @@
   * [4、整理、总结和思考日常工作](43001-zheng-li-3001-zong-jie-he-si-kao-ri-chang-gong-zuo.md)
   * [5、适时思考职业发展和方向--做好职业规划](53001-shi-shi-si-kao-zhi-ye-fa-zhan-he-fang-5411-zuo-hao-zhi-ye-gui-hua.md)
   * [6、工作是严肃的](63001-gong-zuo-shi-yan-su-de.md)
+* [第四章--持续学习及学习方法](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa.md)
+  * [1、专业的广度和深度](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa/13001-zhuan-ye-de-guang-du-he-shen-du.md)
+  * 2、综合能力学习
+  * 3、有针对性地学习与宽泛地学习
+  * [4、基础是根本](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa/43001-ji-chu-shi-gen-ben.md)
+  * [5、具备获取第一手资料的能力](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa/53001-ju-bei-huo-qu-di-yi-shou-zi-liao-de-neng-li.md)
+  * [6、制定短期、中期和长期目标](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa/63001-zhi-ding-duan-qi-3001-zhong-qi-he-chang-qi-mu-biao.md)
 
