@@ -15,14 +15,14 @@
     * [问题4：没人能知道我的能力，我是有大本事的，没人赏识我，发掘不了我的潜力](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/wen-ti-4-ff1a-mei-ren-neng-zhi-dao-wo-de-neng-li-ff0c-wo-shi-you-da-ben-shi-de-ff0c-mei-ren-shang-shi-wo-ff0c-fa-jue-bu-le-wo-de-qian-li.md)
     * [问题5：公司真的好赚钱啊，老板都发财了，我想自己干，赚大钱](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/wen-ti-5-ff1a-gong-si-zhen-de-hao-zhuan-qian-a-ff0c-lao-ban-du-fa-cai-le-ff0c-wo-xiang-zi-ji-gan-ff0c-zhuan-da-qian.md)
     * [总结和建议](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/1.2.6-zong-jie-he-jian-yi.md)
-  * 类别三：短视，以自我利益为中心
+  * [类别三：短视，以自我利益为中心](chapter1/lei-bie-san-ff1a-duan-shi-ff0c-yi-zi-wo-li-yi-wei-zhong-xin.md)
     * [问题1：学习也没啥效果，天天在上网和看手机上](chapter1/wen-ti-1-ff1a-xue-xi-ye-mei-sha-xiao-guo-ff0c-tian-tian-zai-shang-wang-he-kan-shou-ji-shang.md)
     * [问题2：没耐心，想短期内快速获得成果](chapter1/wen-ti-2-ff1a-mei-nai-xin-ff0c-xiang-duan-qi-nei-kuai-su-huo-de-cheng-guo.md)
     * [问题3：老板希望我把公司当家，把公司当成自己的，明显是在忽悠我，我才不傻呢](chapter1/wen-ti-3-ff1a-lao-ban-xi-wang-wo-ba-gong-si-dang-jia-ff0c-ba-gong-si-dang-cheng-zi-ji-de-ff0c-ming-xian-shi-zai-hu-you-wo-ff0c-wo-cai-bu-sha-ni.md)
     * [问题4：工作总是做不完，总是来新的事情，什么时候能休息一下](chapter1/wen-ti-4-ff1a-gong-zuo-zong-shi-zuo-bu-wan-ff0c-zong-shi-lai-xin-de-shi-qing-ff0c-shi-yao-shi-hou-neng-xiu-xi-yi-xia.md)
-  * 类别四：对公司目标或工作内容没有认同感
+  * [类别四：对公司目标或工作内容没有认同感](chapter1/lei-bie-si-ff1a-dui-gong-si-mu-biao-huo-gong-zuo-nei-rong-mei-you-ren-tong-gan.md)
     * [问题1：对公司的目标和工作内容不认同，觉得自己把时间都浪费在没意义的事情上](chapter1/wen-ti-1-ff1a-dui-gong-si-de-mu-biao-he-gong-zuo-nei-rong-bu-ren-tong-ff0c-jue-de-zi-ji-ba-shi-jian-du-lang-fei-zai-mei-yi-yi-de-shi-qing-shang.md)
-  * 类别五：眼高手低，不能脚踏实地
+  * [类别五：眼高手低，不能脚踏实地](chapter1/lei-bie-wu-ff1a-yan-gao-shou-di-ff0c-bu-neng-jiao-ta-shi-di.md)
     * [问题1：这种事情很简单，没啥太大的价值，我要做点有难度的事情](chapter1/wen-ti-1-ff1a-zhe-zhong-shi-qing-hen-jian-dan-ff0c-mei-sha-tai-da-de-jia-zhi-ff0c-wo-yao-zuo-dian-you-nan-du-de-shi-qing.md)
     * [问题2：我很聪明，我觉得上面定下的方案很笨，我看不上他们](chapter1/wen-ti-2-ff1a-wo-hen-cong-ming-ff0c-wo-jue-de-shang-mian-ding-xia-de-fang-an-hen-ben-ff0c-wo-kan-bu-shang-ta-men.md)
   * [其他常见问题](chapter1/qi-ta-chang-jian-wen-ti.md)
