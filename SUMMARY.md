@@ -23,6 +23,6 @@
   * 类别四：对公司目标或工作内容没有认同感
     * [问题1：对公司的目标和工作内容不认同，觉得自己把时间都浪费在没意义的事情上](chapter1/wen-ti-1-ff1a-dui-gong-si-de-mu-biao-he-gong-zuo-nei-rong-bu-ren-tong-ff0c-jue-de-zi-ji-ba-shi-jian-du-lang-fei-zai-mei-yi-yi-de-shi-qing-shang.md)
   * 类别五：眼高手低，不能脚踏实地
-    * 问题1：这种事情很简单，没啥太大的价值，我要做点有难度的事情
+    * [问题1：这种事情很简单，没啥太大的价值，我要做点有难度的事情](chapter1/wen-ti-1-ff1a-zhe-zhong-shi-qing-hen-jian-dan-ff0c-mei-sha-tai-da-de-jia-zhi-ff0c-wo-yao-zuo-dian-you-nan-du-de-shi-qing.md)
   * 其他常见问题
 
