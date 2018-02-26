@@ -27,4 +27,5 @@
     * [问题2：我很聪明，我觉得上面定下的方案很笨，我看不上他们](chapter1/wen-ti-2-ff1a-wo-hen-cong-ming-ff0c-wo-jue-de-shang-mian-ding-xia-de-fang-an-hen-ben-ff0c-wo-kan-bu-shang-ta-men.md)
   * [其他常见问题](chapter1/qi-ta-chang-jian-wen-ti.md)
     * [问题1：一件事情对公司是有利的，但会让一些同事不开心，我该怎么做？](chapter1/qi-ta-chang-jian-wen-ti/wen-ti-1-ff1a-yi-jian-shi-qing-dui-gong-si-shi-you-li-de-ff0c-dan-hui-rang-yi-xie-tong-shi-bu-kai-xin-ff0c-wo-gai-zen-yao-zuo-ff1f.md)
+    * [问题2：公司很多岗位都是老板亲戚，会不会有问题？](chapter1/qi-ta-chang-jian-wen-ti/wen-ti-2-ff1a-gong-si-hen-duo-gang-wei-du-shi-lao-ban-qin-qi-ff0c-hui-bu-hui-you-wen-ti-ff1f.md)
 
