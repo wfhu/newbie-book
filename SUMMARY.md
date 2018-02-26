@@ -17,6 +17,7 @@
     * [总结和建议](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/1.2.6-zong-jie-he-jian-yi.md)
   * 类别三：短视，以自我利益为中心
     * [问题1：学习也没啥效果，天天在上网和看手机上](chapter1/wen-ti-1-ff1a-xue-xi-ye-mei-sha-xiao-guo-ff0c-tian-tian-zai-shang-wang-he-kan-shou-ji-shang.md)
+    * [问题2：没耐心，想短期内快速获得成果](chapter1/wen-ti-2-ff1a-mei-nai-xin-ff0c-xiang-duan-qi-nei-kuai-su-huo-de-cheng-guo.md)
   * 类别四：对公司目标或工作内容没有认同感
     * 问题1：对公司的目标和工作内容不认同，觉得自己把时间都浪费在没意义的事情上
   * 类别五：眼高手低，不能脚踏实地
