@@ -25,5 +25,6 @@
   * 类别五：眼高手低，不能脚踏实地
     * [问题1：这种事情很简单，没啥太大的价值，我要做点有难度的事情](chapter1/wen-ti-1-ff1a-zhe-zhong-shi-qing-hen-jian-dan-ff0c-mei-sha-tai-da-de-jia-zhi-ff0c-wo-yao-zuo-dian-you-nan-du-de-shi-qing.md)
     * [问题2：我很聪明，我觉得上面定下的方案很笨，我看不上他们](chapter1/wen-ti-2-ff1a-wo-hen-cong-ming-ff0c-wo-jue-de-shang-mian-ding-xia-de-fang-an-hen-ben-ff0c-wo-kan-bu-shang-ta-men.md)
-  * 其他常见问题
+  * [其他常见问题](chapter1/qi-ta-chang-jian-wen-ti.md)
+    * [问题1：一件事情对公司是有利的，但会让一些同事不开心，我该怎么做？](chapter1/qi-ta-chang-jian-wen-ti/wen-ti-1-ff1a-yi-jian-shi-qing-dui-gong-si-shi-you-li-de-ff0c-dan-hui-rang-yi-xie-tong-shi-bu-kai-xin-ff0c-wo-gai-zen-yao-zuo-ff1f.md)
 
