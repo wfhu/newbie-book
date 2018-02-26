@@ -89,12 +89,12 @@
   * 11、尽早选择自己喜欢的职业
   * 12、要强调自己的时间管理
 * [第八章--什么时候应该离开公司](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si.md)
-  * 1、认清楚自己的目标
-  * 2、认清楚公司的目标
-  * 3、我能否在公司发挥我的长处
-  * 4、公司能否让我持续成长
-  * 5、你愿意让你的孩子呆在这家公司么？
-  * 6、公司是否有让你留下来的价值
+  * [1、认清楚自己的目标](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si/13001-ren-qing-chu-zi-ji-de-mu-biao.md)
+  * [2、认清楚公司的目标](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si/23001-ren-qing-chu-gong-si-de-mu-biao.md)
+  * [3、我能否在公司发挥我的长处](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si/33001-wo-neng-fou-zai-gong-si-fa-hui-wo-de-chang-chu.md)
+  * [4、公司能否让我持续成长](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si/43001-gong-si-neng-fou-rang-wo-chi-xu-cheng-chang.md)
+  * [5、你愿意让你的孩子呆在这家公司么？](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si/53001-ni-yuan-yi-rang-ni-de-hai-zi-dai-zai-zhe-jia-gong-si-yao-ff1f.md)
+  * [6、公司是否有让你留下来的价值](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si/63001-gong-si-shi-fou-you-rang-ni-liu-xia-lai-de-jia-zhi.md)
 * [第九章--杂说](di-jiu-7ae0-qi-ta-za-xiang.md)
   * [1、找一个自己的兴趣爱好](13001-zhao-yi-ge-zi-ji-de-xing-qu-ai-hao.md)
   * [2、如何做到自律](23001-ru-he-zuo-dao-zi-lv.md)
