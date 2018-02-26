@@ -5,14 +5,17 @@
   "plugins": [
     "toggle-chapters",
     "include-codeblock",
-    "-sharing",
     "sectionx",
     "splitter",
-    "sitemap"
+    "advanced-emoji",
+    "github"
   ],
   "pluginsConfig": {
     "fontSettings": {
       "family": "serif"
+    },
+    "github": {
+        "url": "https://github.com/wfhu"
     }
   },
   "links": {
