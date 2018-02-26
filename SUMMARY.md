@@ -95,9 +95,7 @@
   * 4、公司能否让我持续成长
   * 5、你愿意让你的孩子呆在这家公司么？
   * 6、公司是否有让你留下来的价值
-* [第九章--其他杂项](di-jiu-7ae0-qi-ta-za-xiang.md)
+* [第九章--杂说](di-jiu-7ae0-qi-ta-za-xiang.md)
   * [1、找一个自己的兴趣爱好](13001-zhao-yi-ge-zi-ji-de-xing-qu-ai-hao.md)
   * [2、如何做到自律](23001-ru-he-zuo-dao-zi-lv.md)
-
-
 
