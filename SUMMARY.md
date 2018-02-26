@@ -37,4 +37,11 @@
   * [6、工作就是帮他人解决问题，为他人创造价值](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f/63001-gong-zuo-jiu-shi-bang-ta-ren-jie-jue-wen-ti-ff0c-wei-ta-ren-chuang-zao-jia-zhi.md)
   * [7、工作、事业和生活，是不可分割的](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f/73001-gong-zuo-3001-shi-ye-he-sheng-huo-ff0c-shi-bu-ke-fen-ge-de.md)
   * [8、工作会伴你一生，也应该伴你一生](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f/83001-gong-zuo-hui-ban-ni-yi-sheng-ff0c-ye-ying-gai-ban-ni-yi-sheng.md)
+* [第三章--初入职场如何开展工作](di-san-7ae0-chu-ru-zhi-chang-ru-he-kai-zhan-gong-zuo.md)
+  * [1、做好交代给你的工作](13001-zuo-hao-jiao-dai-gei-ni-de-gong-zuo.md)
+  * [2、把自己的工作做到极致，超出领导的期望](23001-ba-zi-ji-de-gong-zuo-zuo-dao-ji-zhi-ff0c-chao-chu-ling-dao-de-qi-wang.md)
+  * [3、积极反馈和表达自己的想法，及时沟通](33001-ji-ji-fan-kui-he-biao-da-zi-ji-de-xiang-fa-ff0c-ji-shi-gou-tong.md)
+  * [4、整理、总结和思考日常工作](43001-zheng-li-3001-zong-jie-he-si-kao-ri-chang-gong-zuo.md)
+  * [5、适时思考职业发展和方向--做好职业规划](53001-shi-shi-si-kao-zhi-ye-fa-zhan-he-fang-5411-zuo-hao-zhi-ye-gui-hua.md)
+  * [6、工作是严肃的](63001-gong-zuo-shi-yan-su-de.md)
 
