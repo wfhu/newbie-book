@@ -7,6 +7,7 @@
     * [问题2：这事情我不想做、我没兴趣，让别人做吧](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/wen-ti-2-ff1a-zhe-shi-qing-wo-bu-xiang-zuo-3001-wo-mei-xing-qu-ff0c-rang-bie-ren-zuo-ba.md)
     * [问题3：我的成果大部分被其他人占据了，我觉得没意思](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/wen-ti-3-ff1a-wo-de-cheng-guo-da-bu-fen-bei-qi-ta-ren-zhan-ju-le-ff0c-wo-jue-de-mei-yi-si.md)
     * [问题4：事情做好做坏都一样，又不会给我加工资，能交差就行了](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/wen-ti-4-ff1a-shi-qing-zuo-hao-zuo-huai-du-yi-yang-ff0c-you-bu-hui-gei-wo-jia-gong-zi-ff0c-neng-jiao-cha-jiu-xing-le.md)
+    * [总结和建议](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/zong-jie-he-jian-yi.md)
   * 类别二：心里不平衡
     * [问题1：我觉得领导各方面很一般，是靠的运气/脸皮厚/拍马屁/汇报混上来的](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/wen-ti-1-ff1a-wo-jue-de-ling-dao-ge-fang-mian-hen-yi-ban-ff0c-shi-kao-de-yun-6c14-lian-pi-539a-pai-ma-5c41-hui-bao-hun-shang-lai-de.md)
   * 类别三：短视，以自我利益为中心
