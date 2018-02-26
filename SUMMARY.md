@@ -4,6 +4,7 @@
 * [第一章--初入职场常见问题](chapter1.md)
   * [类别一：拒绝成长](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang.md)
     * [问题1：公司只给我这么多钱，我就只做这么多事情](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/wen-ti-1-ff1a-gong-si-zhi-gei-wo-zhe-yao-duo-qian-ff0c-wo-jiu-zhi-zuo-zhe-yao-duo-shi-qing.md)
+    * [问题2：这事情我不想做、我没兴趣，让别人做吧](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/wen-ti-2-ff1a-zhe-shi-qing-wo-bu-xiang-zuo-3001-wo-mei-xing-qu-ff0c-rang-bie-ren-zuo-ba.md)
   * 类别二：心里不平衡
     * [问题1：我觉得领导各方面很一般，是靠的运气/脸皮厚/拍马屁/汇报混上来的](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang/wen-ti-1-ff1a-wo-jue-de-ling-dao-ge-fang-mian-hen-yi-ban-ff0c-shi-kao-de-yun-6c14-lian-pi-539a-pai-ma-5c41-hui-bao-hun-shang-lai-de.md)
   * 类别三：短视，以自我利益为中心
