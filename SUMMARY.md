@@ -53,7 +53,7 @@
   * [6、制定短期、中期和长期目标](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa/63001-zhi-ding-duan-qi-3001-zhong-qi-he-chang-qi-mu-biao.md)
 * 第五章--如何更好地提升自己
   * [1、日省吾身三次](13001-ri-sheng-wu-shen-san-ci.md)
-  * 2、格局要大，眼光要远，心态要宽
+  * [2、格局要大，眼光要远，心态要宽](23001-ge-ju-yao-da-ff0c-yan-guang-yao-yuan-ff0c-xin-tai-yao-kuan.md)
   * 3、不要自己欺骗自己
   * 4、钱不应该是追求的目标，钱是附带而来的
   * [5、时间是自己的，不要浪费时间](53001-shi-jian-shi-zi-ji-de-ff0c-bu-yao-lang-fei-shi-jian.md)
@@ -95,9 +95,7 @@
   * 4、公司能否让我持续成长
   * 5、你愿意让你的孩子呆在这家公司么？
   * 6、公司是否有让你留下来的价值
-* 第九章--其他杂项
+* [第九章--其他杂项](di-jiu-7ae0-qi-ta-za-xiang.md)
   * [1、找一个自己的兴趣爱好](13001-zhao-yi-ge-zi-ji-de-xing-qu-ai-hao.md)
-  * 2、如何做到自律
-
-
+  * [2、如何做到自律](23001-ru-he-zuo-dao-zi-lv.md)
 
