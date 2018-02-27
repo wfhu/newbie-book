@@ -65,16 +65,16 @@
   * [11、具备自我怀疑和反思的能力](113001-ju-bei-zi-wo-huai-yi-he-fan-si-de-neng-li.md)
   * [12、跳出自己的职位、部门，强调对外输出](123001-tiao-chu-zi-ji-de-zhi-wei-3001-bu-men-ff0c-qiang-diao-dui-wai-shu-chu.md)
   * [13、不要担心功劳被抢，不要怕吃亏](133001-bu-yao-dan-xin-gong-lao-bei-qiang-ff0c-bu-yao-pa-chi-yu.md)
-* 第六章--工作中需要特别注意的细节
-  * 1、领导经常亲自来找你询问工作进展
-  * 2、领导对你不闻不问
-  * 3、工作几个月了，只认识身边少数几个同事
-  * 4、不要轻易承诺别人
-  * 5、你可以拒绝别人
-  * 6、正确看待同事与朋友的关系
+* [第六章--工作中需要特别注意的细节](di-liu-7ae0-gong-zuo-zhong-xu-yao-te-bie-zhu-yi-de-xi-jie.md)
+  * [1、领导经常亲自来找你询问工作进展](13001-ling-dao-jing-chang-qin-zi-lai-zhao-ni-xun-wen-gong-zuo-jin-zhan.md)
+  * [2、领导对你不闻不问](23001-ling-dao-dui-ni-bu-wen-bu-wen.md)
+  * [3、工作几个月了，只认识身边少数几个同事](33001-gong-zuo-ji-ge-yue-le-ff0c-zhi-ren-shi-shen-bian-shao-shu-ji-ge-tong-shi.md)
+  * [4、不要轻易承诺别人](43001-bu-yao-qing-yi-cheng-nuo-bie-ren.md)
+  * [5、你可以拒绝别人](53001-ni-ke-yi-ju-jue-bie-ren.md)
+  * [6、正确看待同事与朋友的关系](63001-zheng-que-kan-dai-tong-shi-yu-peng-you-de-guan-xi.md)
   * [7、思考他人的长处](73001-si-kao-ta-ren-de-chang-chu.md)
-  * 8、少议论他人八卦和是非
-  * 9、尊重他人的生活差异
+  * [8、少议论他人八卦和是非](83001-shao-yi-lun-ta-ren-ba-gua-he-shi-fei.md)
+  * [9、尊重他人的生活差异](93001-zun-zhong-ta-ren-de-sheng-huo-cha-yi.md)
 * [第七章--痛定思痛--深刻的历史教训](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun.md)
   * 1、跟对人很重要
   * 2、做自己的伯乐，发现自己的长处
