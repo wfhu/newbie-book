@@ -6,9 +6,15 @@
     "toggle-chapters",
     "splitter",
     "github",
+    "tbfed-pagefooter"
     "expandable-chapters-small"
   ],
   "pluginsConfig": {
+  "tbfed-pagefooter": {
+        "copyright":"Copyright &copy https://github.com/wfhu QQ:53768906 wechat:huhuwfhu",
+        "modify_label": "该文件修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }，
     "fontSettings": {
       "family": "serif"
     },
