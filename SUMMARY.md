@@ -51,11 +51,11 @@
   * [4、基础是根本](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa/43001-ji-chu-shi-gen-ben.md)
   * [5、具备获取第一手资料的能力](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa/53001-ju-bei-huo-qu-di-yi-shou-zi-liao-de-neng-li.md)
   * [6、制定短期、中期和长期目标](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa/63001-zhi-ding-duan-qi-3001-zhong-qi-he-chang-qi-mu-biao.md)
-* 第五章--如何更好地提升自己
+* [第五章--如何更好地提升自己](di-wu-7ae0-ru-he-geng-hao-di-ti-sheng-zi-ji.md)
   * [1、日省吾身三次](13001-ri-sheng-wu-shen-san-ci.md)
   * [2、格局要大，眼光要远，心态要宽](23001-ge-ju-yao-da-ff0c-yan-guang-yao-yuan-ff0c-xin-tai-yao-kuan.md)
-  * 3、不要自己欺骗自己
-  * 4、钱不应该是追求的目标，钱是附带而来的
+  * [3、不要自己欺骗自己](33001-bu-yao-zi-ji-qi-pian-zi-ji.md)
+  * [4、钱不应该是追求的目标，钱是附带而来的](43001-qian-bu-ying-gai-shi-zhui-qiu-de-mu-biao-ff0c-qian-shi-fu-dai-er-lai-de.md)
   * [5、时间是自己的，不要浪费时间](53001-shi-jian-shi-zi-ji-de-ff0c-bu-yao-lang-fei-shi-jian.md)
   * 6、被动接受任务和主动发现和解决问题
   * 7、不要掩饰自己的问题和错误
