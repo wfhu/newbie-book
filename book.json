@@ -7,9 +7,18 @@
     "splitter",
     "github",
     "tbfed-pagefooter",
+     "donate",
     "expandable-chapters-small"
   ],
   "pluginsConfig": {
+      "donate": {
+        "wechat": "https://wfhu.github.io/assets/huhu_wechat.jpg",
+        "alipay": "https://wfhu.github.io/assets/huhu_alipay.jpg",
+        "title": "",
+        "button": "赏",
+        "alipayText": "支付宝打赏",
+        "wechatText": "微信打赏"
+    },
     "tbfed-pagefooter": {
         "copyright":"Copyright QQ:53768906 微信:huhuwfhu",
         "modify_label": "最后修订时间：",
