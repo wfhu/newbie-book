@@ -57,8 +57,8 @@
   * [3、不要自己欺骗自己](33001-bu-yao-zi-ji-qi-pian-zi-ji.md)
   * [4、钱不应该是追求的目标，钱是附带而来的](43001-qian-bu-ying-gai-shi-zhui-qiu-de-mu-biao-ff0c-qian-shi-fu-dai-er-lai-de.md)
   * [5、时间是自己的，不要浪费时间](53001-shi-jian-shi-zi-ji-de-ff0c-bu-yao-lang-fei-shi-jian.md)
-  * 6、被动接受任务和主动发现和解决问题
-  * 7、不要掩饰自己的问题和错误
+  * [6、被动接受任务和主动发现和解决问题](63001-bei-dong-jie-shou-ren-wu-he-zhu-dong-fa-xian-he-jie-jue-wen-ti.md)
+  * [7、不要掩饰自己的问题和错误](73001-bu-yao-yan-shi-zi-ji-de-wen-ti-he-cuo-wu.md)
   * 8、不要用学习和忙碌来逃避总结和思考
   * 9、要有做事的能力，更要有做成事的能力
   * [10、思考自己处理工作的方式和方法](103001-si-kao-zi-ji-chu-li-gong-zuo-de-fang-shi-he-fang-fa.md)
