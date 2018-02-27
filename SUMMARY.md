@@ -59,12 +59,12 @@
   * [5、时间是自己的，不要浪费时间](53001-shi-jian-shi-zi-ji-de-ff0c-bu-yao-lang-fei-shi-jian.md)
   * [6、被动接受任务和主动发现和解决问题](63001-bei-dong-jie-shou-ren-wu-he-zhu-dong-fa-xian-he-jie-jue-wen-ti.md)
   * [7、不要掩饰自己的问题和错误](73001-bu-yao-yan-shi-zi-ji-de-wen-ti-he-cuo-wu.md)
-  * 8、不要用学习和忙碌来逃避总结和思考
-  * 9、要有做事的能力，更要有做成事的能力
+  * [8、不要用学习和忙碌来逃避总结和思考](83001-bu-yao-yong-xue-xi-he-mang-lu-lai-tao-bi-zong-jie-he-si-kao.md)
+  * [9、要有做事的能力，更要有做成事的能力](93001-yao-you-zuo-shi-de-neng-li-ff0c-geng-yao-you-zuo-cheng-shi-de-neng-li.md)
   * [10、思考自己处理工作的方式和方法](103001-si-kao-zi-ji-chu-li-gong-zuo-de-fang-shi-he-fang-fa.md)
-  * 11、具备自我怀疑和反思的能力
-  * 12、跳出自己的职位、部门，强调对外输出
-  * 13、不要担心功劳被抢，不要怕吃亏
+  * [11、具备自我怀疑和反思的能力](113001-ju-bei-zi-wo-huai-yi-he-fan-si-de-neng-li.md)
+  * [12、跳出自己的职位、部门，强调对外输出](123001-tiao-chu-zi-ji-de-zhi-wei-3001-bu-men-ff0c-qiang-diao-dui-wai-shu-chu.md)
+  * [13、不要担心功劳被抢，不要怕吃亏](133001-bu-yao-dan-xin-gong-lao-bei-qiang-ff0c-bu-yao-pa-chi-yu.md)
 * 第六章--工作中需要特别注意的细节
   * 1、领导经常亲自来找你询问工作进展
   * 2、领导对你不闻不问
