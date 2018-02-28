@@ -3,7 +3,7 @@
 * [前言](README.md)
 * [第一章--初入职场常见问题](chapter1.md)
   * [类别一：拒绝成长](chapter1/lei-bie-yi-ff1a-ju-jue-cheng-chang.md)
-  * [类别二：心态不平衡](chapter1/lei-bie-er-ff1a-xin-li-bu-ping-heng.md)
+  * [类别二：嫉妒、眼红、心态不平衡](chapter1/lei-bie-er-ff1a-xin-li-bu-ping-heng.md)
   * [类别三：短视，以自我利益为中心](chapter1/lei-bie-san-ff1a-duan-shi-ff0c-yi-zi-wo-li-yi-wei-zhong-xin.md)
   * [类别四：眼高手低，不能脚踏实地](chapter1/lei-bie-wu-ff1a-yan-gao-shou-di-ff0c-bu-neng-jiao-ta-shi-di.md)
   * [其他常见问题](chapter1/qi-ta-chang-jian-wen-ti.md)
