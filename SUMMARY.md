@@ -8,7 +8,7 @@
   * [类别四：眼高手低，不能脚踏实地](chapter1/lei-bie-wu-ff1a-yan-gao-shou-di-ff0c-bu-neng-jiao-ta-shi-di.md)
   * [其他常见问题](chapter1/qi-ta-chang-jian-wen-ti.md)
 * [第二章--工作究竟是什么？](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f.md)
-  * [1、工作是生命中不可缺少的一部分](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f#2-1)
+  * [1、工作是生命中不可缺少的一部分](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f.md#2-1)
   * [2、工作是一个人在社会中的定位](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f/23001-gong-zuo-shi-yi-ge-ren-zai-she-hui-zhong-de-ding-wei.md)
   * [3、工作是个人价值的体现](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f/33001-gong-zuo-shi-ge-ren-jia-zhi-de-ti-xian.md)
   * [4、工作收入代表了什么？](di-er-7ae0-gong-zuo-jiu-jing-shi-shi-yao-ff1f/43001-gong-zuo-shou-ru-dai-biao-le-shi-yao-ff1f.md)
