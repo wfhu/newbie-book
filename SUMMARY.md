@@ -56,18 +56,18 @@
   * [8、少议论他人八卦和是非](83001-shao-yi-lun-ta-ren-ba-gua-he-shi-fei.md)
   * [9、尊重他人的生活差异](93001-zun-zhong-ta-ren-de-sheng-huo-cha-yi.md)
 * [第七章--痛定思痛--深刻的历史教训](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun.md)
-  * 1、跟对人很重要
-  * 2、做自己的伯乐，发现自己的长处
-  * 3、把自己介绍和推广出去
-  * 4、提升自信心，接受挑战
-  * 5、胆子大一点，不要害怕失败，不要怕丢人
-  * 6、聪明不代表成绩，成果最重要
-  * 7、人如果能活第二次，都会是成功的？
-  * 8、世界上的事情，说起来都很困难，做起来缺没那么难
-  * 9、要有自己的意见，不能让外行领导内行，被人牵着鼻子走
-  * 10、维护好良好的人际关系和圈子关系
-  * 11、尽早选择自己喜欢的职业
-  * 12、要强调自己的时间管理
+  * [1、跟对人很重要](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun/13001-gen-dui-ren-hen-zhong-yao.md)
+  * [2、做自己的伯乐，发现自己的长处](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun/23001-zuo-zi-ji-de-bo-le-ff0c-fa-xian-zi-ji-de-chang-chu.md)
+  * [3、把自己介绍和推广出去](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun/33001-ba-zi-ji-jie-shao-he-tui-guang-chu-qu.md)
+  * [4、提升自信心，接受挑战](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun/43001-ti-sheng-zi-xin-xin-ff0c-jie-shou-tiao-zhan.md)
+  * [5、胆子大一点，不要害怕失败，不要怕丢人](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun/53001-dan-zi-da-yi-dian-ff0c-bu-yao-hai-pa-shi-bai-ff0c-bu-yao-pa-diu-ren.md)
+  * [6、聪明不代表成绩，成果最重要](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun/63001-cong-ming-bu-dai-biao-cheng-ji-ff0c-cheng-guo-zui-zhong-yao.md)
+  * [7、人如果能活第二次，都会是成功的？](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun/73001-ren-ru-guo-neng-huo-di-er-ci-ff0c-du-hui-shi-cheng-gong-de-ff1f.md)
+  * [8、世界上的事情，说起来都很困难，做起来缺没那么难](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun/83001-shi-jie-shang-de-shi-qing-ff0c-shuo-qi-lai-du-hen-kun-nan-ff0c-zuo-qi-lai-que-mei-na-yao-nan.md)
+  * [9、要有自己的意见，不能让外行领导内行，被人牵着鼻子走](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun/93001-yao-you-zi-ji-de-yi-jian-ff0c-bu-neng-rang-wai-xing-ling-dao-nei-xing-ff0c-bei-ren-qian-zhao-bi-zi-zou.md)
+  * [10、维护好良好的人际关系和圈子关系](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun/103001-wei-hu-hao-liang-hao-de-ren-ji-guan-xi-he-quan-zi-guan-xi.md)
+  * [11、尽早选择自己喜欢的职业](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun/113001-jin-zao-xuan-ze-zi-ji-xi-huan-de-zhi-ye.md)
+  * [12、要强调自己的时间管理](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun/123001-yao-qiang-diao-zi-ji-de-shi-jian-guan-li.md)
 * [第八章--什么时候应该离开公司](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si.md)
   * [1、认清楚自己的目标](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si/13001-ren-qing-chu-zi-ji-de-mu-biao.md)
   * [2、认清楚公司的目标](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si/23001-ren-qing-chu-gong-si-de-mu-biao.md)
