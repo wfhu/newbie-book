@@ -31,7 +31,6 @@
   * [5、具备获取第一手资料的能力](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa.md#4-5)
   * [6、制定短期、中期和长期目标](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa.md#4-6)
   * [7、集中力量于一点](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa.md#4-7)
-  * [8、选择比努力重要，读好书](di-si-7ae0-chi-xu-xue-xi-ji-xue-xi-fang-fa.md#4-8)
 * [第五章--如何更好地提升自己](di-wu-7ae0-ru-he-geng-hao-di-ti-sheng-zi-ji.md)
   * [1、日省吾身三次](di-wu-7ae0-ru-he-geng-hao-di-ti-sheng-zi-ji.md#5-1)
   * [2、格局要大，眼光要远，心态要宽](di-wu-7ae0-ru-he-geng-hao-di-ti-sheng-zi-ji.md#5-2)
