@@ -45,7 +45,7 @@
   * [11、具备自我怀疑和反思的能力](di-wu-7ae0-ru-he-geng-hao-di-ti-sheng-zi-ji.md#5-11)
   * [12、跳出自己的职位、部门，强调对外输出](di-wu-7ae0-ru-he-geng-hao-di-ti-sheng-zi-ji.md#5-12)
   * [13、不要担心功劳被抢，不要怕吃亏](di-wu-7ae0-ru-he-geng-hao-di-ti-sheng-zi-ji.md#5-13)
-* [第六章--工作中需要特别注意的细节](di-liu-7ae0-gong-zuo-zhong-xu-yao-te-bie-zhu-yi-de-xi-jie.md)
+* [第六章--需要特别注意的细节](di-liu-7ae0-gong-zuo-zhong-xu-yao-te-bie-zhu-yi-de-xi-jie.md)
   * [1、领导经常亲自来找你询问工作进展](di-liu-7ae0-gong-zuo-zhong-xu-yao-te-bie-zhu-yi-de-xi-jie.md#6-1)
   * [2、领导对你不闻不问](di-liu-7ae0-gong-zuo-zhong-xu-yao-te-bie-zhu-yi-de-xi-jie.md#6-2)
   * [3、工作几个月了，只认识身边少数几个同事](di-liu-7ae0-gong-zuo-zhong-xu-yao-te-bie-zhu-yi-de-xi-jie.md#6-3)
