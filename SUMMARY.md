@@ -60,7 +60,7 @@
   * [2、做自己的伯乐，发现自己的长处](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun.md#7-2)
   * [3、把自己介绍和推广出去](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun.md#7-3)
   * [4、提升自信心，接受挑战](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun.md#7-4)
-  * [5、聪明不代表成绩，成果最重要](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun.md#7-6)
+  * [5、聪明不代表成绩，结果最重要](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun.md#7-6)
   * [6、人如果能活第二次，都会是成功的？](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun.md#7-7)
   * [7、世界上的事情，说起来都很困难，做起来缺没那么难](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun.md#7-8)
   * [8、要有自己的意见，不能让外行领导内行，被人牵着鼻子走](di-qi-7ae0-tong-ding-si-75db-shen-ke-de-li-shi-jiao-xun.md#7-9)
