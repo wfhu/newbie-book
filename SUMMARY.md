@@ -70,7 +70,7 @@
 * [第八章--什么时候应该离开公司](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si.md)
   * [1、认清楚自己的目标](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si.md#8-1)
   * [2、认清楚公司的目标](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si.md#8-2)
-  * [3、我能否在公司发挥我的长处](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si.md#8-3)
+  * [3、公司是否处于上升通道](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si.md#8-3)
   * [4、公司能否让我持续成长](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si.md#8-4)
   * [5、你愿意让你的孩子呆在这家公司么？](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si.md#8-5)
   * [6、公司是否有让你留下来的价值](di-ba-7ae0-shi-yao-shi-hou-ying-gai-li-kai-gong-si.md#8-5)
